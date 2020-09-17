@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Adobe XD, Flutter/Dart, developing and deploying REST API using Node JS and AWS.
 - 🤔 I’m looking for help with AWS and cloud computing.
 - 💬 Ask me about Apple developement ecosystem and Swift
-- 📫 How to reach me: Twitter -> @dineshndev
+- 📫 How to reach me: Twitter -> @dineshndev Instagram -> https://www.instagram.com/dineshnagarajan.dev/
 - ⚡ Fun fact: Reading anything and everything about technology and security which cross my site
 
 <!--
